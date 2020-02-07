@@ -183,7 +183,6 @@
     <Content Include="Views\Motorista\Index.cshtml" />
     <Content Include="Views\Carro\Create.cshtml" />
     <Content Include="Views\Carro\Delete.cshtml" />
-    <Content Include="Views\Carro\Details.cshtml" />
     <Content Include="Views\Carro\Edit.cshtml" />
     <Content Include="Views\Carro\Index.cshtml" />
     <Content Include="Views\Responsavel\Create.cshtml" />
